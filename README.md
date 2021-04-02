@@ -1,2 +1,2 @@
 # Plant-disease-classification-
-Convolutional Neural network
+I have used dataset from kaggle Plant Village https://www.kaggle.com/emmarex/plantdisease
